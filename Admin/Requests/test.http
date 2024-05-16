@@ -1,0 +1,29 @@
+Post http://localhost:5274/categories/
+Content-Type: application/json
+
+{
+    "Name": "Ev12",
+    "Slug": "ev1",
+    "Icon": "icon1"
+}
+
+### filter by name
+Get http://localhost:5274/categories?searchTerm=Ev&page=1&pageSize=4
+
+### sort by name
+Get http://localhost:5274/categories?sortColumn=name&page=1&pageSize=4
+
+### 
+Put http://localhost:5274/categories/{id}
+Content-Type: application/json
+
+{
+    "Name": "Menzil",
+    "Slug": "Menzil1",
+    "Icon": "icon4"
+}
+
+###
+Delete http://localhost:5274/categories/{id}
+
+

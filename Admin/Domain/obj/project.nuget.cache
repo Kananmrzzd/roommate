@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JcG7IRBnxJkna8xa3mTxhVTMbDvoL3WEKBL3mW9rHUr6kJ/YydUUQEQxB0EtXfT1x/FNnqV32z4wnrou3c+2tw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kanan\\OneDrive\\Documents\\aspnet\\Admin\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kanan\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
